@@ -1,0 +1,65 @@
+1
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0110257&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110257
+Random-Effects, Fixed-Effects and the within-between Specification for Clustered Data in Observational Health Studies: A Simulation Study
+
+2
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0123343&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123343
+Fetal Calcifications Are Associated with Chromosomal Abnormalities
+
+3
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0114303&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114303
+From the Past to the Future: Natural Sound Recordings and the Preservation of the Bioacoustics Legacy in Portugal
+
+4
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0111445&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0111445
+An Information Theoretic Clustering Approach for Unveiling Authorship Affinities in Shakespearean Era Plays and Poems
+
+5
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0110268&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110268
+The Dawn of Open Access to Phylogenetic Data
+
+6
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0104798&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104798
+How Do Astronomers Share Data? Reliability and Persistence of Datasets Linked in AAS Publications and a Qualitative Study of Data Practices among US Astronomers
+
+7
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0104774&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104774
+Region-Specific Sensitivity of Anemophilous Pollen Deposition to Temperature and Precipitation
+
+8
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0115253&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115253
+Scholarly Context Not Found: One in Five Articles Suffers from Reference Rot
+
+9
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0120970&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120970
+From Local Checklists to Online Identification Portals: A Case Study on Vascular Plants
+
+10
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0124294&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124294
+Vertical Distribution of Lead and Mercury in the Wetland Argialbolls of the Sanjiang Plain in Northeastern China
+
+11
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0115035&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115035
+How Digital Are the Digital Humanities? An Analysis of Two Scholarly Blogging Platforms
+
+12
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0123471&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123471
+The Effect of Selection Bias in Studies of Fads and Fashions
+
+13
+http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0120976&representation=PDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120976
+Network Intrusion Detection Based on a General Regression Neural Network Optimized by an Improved Artificial Immune Algorithm
+
